@@ -47,8 +47,8 @@ Analyze a dataset of 300+ products sold on Zepto to:
 - **Price vs Discount vs Count** – Trendline analysis  
 - **Location Revenue Map** – Visual heatmap of city-level sales  
 
-![Dashboard Overview](ttps://lookerstudio.google.com/s/tn8b6cGlRu0))
-
+(https://lookerstudio.google.com/s/tn8b6cGlRu0))
+https://www.kaggle.com/code/farhakouser/zepto-retail-sales-intelligence-real-time-pric-py
 ---
 
 
